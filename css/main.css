@@ -1,0 +1,12 @@
+.box {
+  padding: 10px;
+  text-align: center;
+  background: rgb(82, 82, 235);
+  border: 1px solid white;
+}
+.box2 {
+  padding: 6px;
+  text-align: center;
+  background: green;
+  border: 1px solid white;
+}
